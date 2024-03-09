@@ -1,5 +1,1 @@
-# WorkSpace
- Everywork made by saratrasv
-
-
- 
+# Este es un proyecto de java donde se implementa una api restful de streaming con la ayuda de Jersey 
